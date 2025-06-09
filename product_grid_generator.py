@@ -1,5 +1,3 @@
-# Install necessary libraries
-# pip install pandas pillow requests beautifulsoup4
 
 import pandas as pd
 from PIL import Image, ImageDraw, ImageFont
